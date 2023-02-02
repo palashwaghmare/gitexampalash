@@ -30,13 +30,13 @@ class javafile{
  
         LinkedListCreation L1 = new LinkedListCreation();
  
-        //L1.addNode(1);
-        //L1.addNode(2);
-        //L1.addNode(3);
-        //L1.addNode(4);
+        L1.addNode(1);
+        L1.addNode(2);
+        L1.addNode(3);
+        L1.addNode(4);
  
-        // Displays the nodes present in the list
-        //L1.displayNodes();
+         Displays the nodes present in the list
+        L1.displayNodes();
  
         
     }
